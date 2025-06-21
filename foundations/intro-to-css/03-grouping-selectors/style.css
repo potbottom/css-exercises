@@ -1,0 +1,13 @@
+.cl1 {
+    background-color: rgb(0, 0, 0); 
+    color: rgb(255, 255, 255);
+}
+
+.cl2 {
+    background-color: rgb(251, 251, 0);
+}
+
+.cl1, .cl2 {
+    font-size: 28px;
+    font-family: "Helvetica", "Times New Roman", sans-serif;
+}
